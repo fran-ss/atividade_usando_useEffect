@@ -1,0 +1,19 @@
+#container{
+    height: 3000vh;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: orange;
+    gap: 10px;
+
+}
+#poste{
+    border-radius: 10px;
+    padding: 20px;
+    background-color: yellow;
+
+
+}
+P{
+    align-items: justify;
+}
